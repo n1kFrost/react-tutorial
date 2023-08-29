@@ -1,5 +1,7 @@
+import { AppWrapper } from "./styles.js";
+
 function App() {
-  return <AppWrapper> sdfsdfsdf </AppWrapper>;
+  return <AppWrapper>Layout</AppWrapper>;
 }
 
 export default App;
