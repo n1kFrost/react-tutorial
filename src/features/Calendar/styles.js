@@ -19,7 +19,7 @@ export const DataSessionElement = styled.div`
   height: 25px;
   width: 25px;
   border-radius: 50%;
-  background-color: #4D4117;
+  background-color: #4d4117;
   text-align: center;
   color: white;
   display: flex;
@@ -36,15 +36,14 @@ export const Day = styled.div`
 `;
 
 export const DayBold = styled.div`
-background-color: #DFBD43;
-height: 40px;
-width: 40px;
-border-radius: 50%;
-text-align: center;
-color: white;
-display: flex;
-gap: 25px;
-flex-direction: column;
-align-items: center;
-`
-
+  background-color: #dfbd43;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  text-align: center;
+  color: white;
+  display: flex;
+  gap: 25px;
+  flex-direction: column;
+  align-items: center;
+`;

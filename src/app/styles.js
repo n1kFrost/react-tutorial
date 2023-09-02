@@ -6,7 +6,6 @@ export const AppWrapper = styled.div`
   background-color: rgba(255, 253, 244, 0.96);
   padding: 20px;
 
-
   @media (max-width: 992px) {
     padding: 15px;
   }
@@ -15,7 +14,7 @@ export const AppWrapper = styled.div`
     padding: 10px;
   }
 
-  @media (max-width: 576px ) {
+  @media (max-width: 576px) {
     padding: 10px;
   }
 `;

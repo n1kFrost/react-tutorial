@@ -21,8 +21,7 @@ export const HeaderText = styled.div`
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  background-color: #F5F2E8;
+  background-color: #f5f2e8;
   padding: 5px;
   width: fit-content;
 `;
-
